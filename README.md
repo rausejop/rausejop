@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Rafael Ausejo Prietok</h1>
+<h1 align="center">Rafael Ausejo Prieto</h1>
 <div align="center">
  <a class="link" href="https://github.com/rausejop/rausejop/blob/main/header.svg">
   <img class="image" src="header.svg" alt="Click to see the source">
@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 </div>
 <h2>About me</h2>
 
-Hi, I'm Rafale Ausejo Prieto. More than 30 years working on Cybersecurity and System Engineering. Currently updating my a software engineering skills to the new times. I'm passionate about cybersecurity, intelligence, security and geostrategy. I enjoy designing projects, some for fun, some other to help others to manage how to deploy and some other for work
+Hi, I'm Rafael Ausejo Prieto. More than 30 years working on Cybersecurity and System Engineering. Currently updating my software engineering skills to the new times. I'm passionate about cybersecurity, intelligence, security and geostrategy. I enjoy designing projects, some for fun, some leading others to deploy and some for work.
 
 
 ## 🧰 Tech Stack
-
 
 ### 💡 Main Core Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
