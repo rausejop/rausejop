@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Rafael Ausejo Prieto</h1>
 <div align="center">
- <a class="link" href="https://github.com/rausejop/rausejop/blob/main/header.svg">
-  <img class="image" src="header.svg" alt="Click to see the source">
+ <a class="link" href="https://www.confianza23.es/">
+  <img class="image" src="https://www.confianza23.es/assets/images/logotipo.png)" alt="CONFIANZA23 Inteligencia y Seguridad, SL">
  </a>
 </div>
 <h2>About me</h2>
